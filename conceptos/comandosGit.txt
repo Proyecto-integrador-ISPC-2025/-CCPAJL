@@ -1,0 +1,23 @@
+# COMANDOS BÁSICOS DE GIT
+
+## Configuración inicial
+git config --global user.name "Tu Nombre"      # Establece tu nombre
+git config --global user.email "tu@email.com"  # Establece tu email
+
+## Trabajo con repositorios
+git clone [URL]          # Clona un repositorio remoto
+git init                 # Inicializa un repositorio local
+
+## Trabajo con ramas
+git branch -a            # Lista todas las ramas (locales y remotas)
+git checkout -b [rama]   # Crea una rama y cambia a ella
+git checkout [rama]      # Cambia a una rama existente
+
+## Commits y cambios
+git add .                # Añade todos los cambios al área de staging
+git commit -m "Mensaje"  # Guarda los cambios con un mensaje
+git push -u origin [rama]# Sube cambios al repositorio remoto
+
+## Actualización y sincronización
+git pull origin [rama]   # Descarga cambios y fusiona
+git fetch                # Obtiene cambios sin fusionar
