@@ -8,5 +8,6 @@
 
 
 Objetivos del grupo
-1) Desarrollar un programa de control de stock, que permite a pequeños negocios tener un seguimiento de su mercaderia, los aumentos de precios y cantidad de productos que se venden al dia/mes/año.
+ Desarrollar un programa de control de stock, que permite a pequeños negocios tener un seguimiento de su mercaderia, los aumentos de precios y cantidad de productos que se venden al dia/mes/año.
    
+Este proyecto en un futuro podria ser usado por diferentes comercios tales como kioscos, panaderias, ferreterias, locales de comida/ropa, etc.
