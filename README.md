@@ -7,6 +7,7 @@
 - Hola soy Alexis Gabriel Baracat Peralta, este es mi primera subida a github!
 
 Hola Soy Javier Vocos, estudiante ISPC 2025
+
 Hola soy Pilar Molina, estudiante de desarrollo web
 
 
